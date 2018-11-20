@@ -12,25 +12,25 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, University of Limoges, France, 2010
-* M.S. in Mathematics, Coding, Cryptography and Applications, University of Limoges, France, 2012
+* M.S. in Mathematics, Coding, Cryptography and Applications (CRYPTIS), University of Limoges, France, 2012
 * Ph.D in Computer Science, University of Limoges, France, 2016
 
 Work experience
 ======
-* Since October 2017: Post-doc researcher at INSA-CVL Bourges / LIFO Orléans, France
+* Since October 2017: Post-doc researcher at [INSA-CVL](http://www.insa-centrevaldeloire.fr/fr/) Bourges / [LIFO](https://www.univ-orleans.fr/lifo/) Orléans, France
   * Securing mobile and cloud architecture
   * Post-Quantum Cryptography deployment (authentication, signature) and new applications (blockchain, IoT)
   * Supervisor: <a href="https://www.univ-orleans.fr/lifo/pageperso.php?lang=fr&id=63">Dr. Jérémy Briffaut</a>
 
-* November 2016 -- September 2017: Post-doc researcher at XLIM Limoges, France
+* November 2016 -- September 2017: Post-doc researcher at [XLIM](http://www.xlim.fr/) Limoges, France
   * Post-Quantum Cryptography 
   * 6 submissions to NIST's call for standardization of post-quantum algorithms:
-    * <a href="http://bikesuite.org/">BIKE</a>
-    * <a href="">HQC</a>
-    * <a href="">LAKE</a>
-    * <a href="">LOCKER</a>
-    * <a href="">Ouroboros-R</a>
-    * <a href="">RQC</a>
+    * [BIKE](http://bikesuite.org/)
+    * [HQC](https://pqc-hqc.org/)
+    * [LAKE](http://nicolas-aragon.fr/lake/)
+    * [LOCKER](http://nicolas-aragon.fr/locker/)
+    * [Ouroboros-R](https://pqc-ouroborosr.org/)
+    * [RQC](https://pqc-rqc.org/)
   * Supervisor: <a href="http://www.unilim.fr/pages_perso/philippe.gaborit/">Prof. Philippe Gaborit</a>
   
 Skills
