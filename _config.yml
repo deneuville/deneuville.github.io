@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jean-Christophe Deneuville"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Post-doc researcher on Post-Quantum Cryptography at <a href='http://www.insa-centrevaldeloire.fr/fr/'>INSA-CVL Bourges</a> / <a href='https://www.univ-orleans.fr/lifo/'>LIFO Orléans</a>, France"
   location         : "Bourges, France"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=zwOOX2IAAAAJ&hl=fr&oi=ao"
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/deneuvillejc/"
+  linkedin         : "deneuvillejc"
   orcid            : "https://orcid.org/0000-0002-5128-6729"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Deneuville_JC"
   vine             :
   weibo            :
   xing             :
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
