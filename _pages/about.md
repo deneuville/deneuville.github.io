@@ -9,15 +9,24 @@ redirect_from:
 ---
 
 Welcome to my homepage ! I am Jean-Christophe Deneuville, post-doc in Computer Science at <a href="">INSA-CVL</a> and <a href="">LIFO</a>, under the supervision of <a href="">Jérémy Briffaut</a>. I earned my Ph.D in 2016, under the supervision of <a href="http://www.unilim.fr/pages_perso/philippe.gaborit/">Philippe Gaborit</a> and <a href="http://www.irit.fr/spip.php?page=annuaire&code=8292">Carlos Aguilar Melchor</a>. My research interests include Cryptography especially based on Error Correcting Codes and Lattices, as well as associated Algorithms for solving hard problems.
-------
+
+Post-Quantum Cryptography
+======
+The rising threat of a large-scale quantum computer capable of vanishing classical number theory based cryptography has urged the need for alternative security solutions. Among the [quantum-safe candidates](https://en.wikipedia.org/wiki/Post-quantum_cryptography), three of them are of particular interest to me: Code-based cryptography, Lattice-based Cryptography and Rank-based Cryptography (using error correcting codes in rank metric).
+
 Code-based Cryptography
-======
-few words on CBC
 ------
+The use of Coding Theory in Cryptography has been suggested by [McEliece](https://en.wikipedia.org/wiki/McEliece_cryptosystem) in 1978 (as old as number theoretic based [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))). Ever since then, many other cryptographic primitives were proposed. I am interested in designing provably secure and efficient protocols relying upon well-established Coding Theory problem. On an different --but related-- flavor, I am also interested in the cryptanalytic effort of such primitives.
+
 Lattice-based Cryptography
-======
-few words on LBC
 ------
-Involvement in NIST PQC standardization process 
+Lattices are periodic sets of points in space (e.g. 3-dimensional ambient space although cryptography typically uses 256+ dimensions). Many difficult problems exist on lattices, all of them more or less related to the [Shortest Vector Problem (SVP)](https://en.wikipedia.org/wiki/Lattice_problem). These problems allow for the design of beautiful primitives such as worst-case to average-case reductions, or fully homomorphic encryption. I am interested in building efficient primitives using the aforementioned features. I am also interested in lattice reduction algorithms and their usage for cryptanalysis.
+
+Rank-based Cryptography
+------
+Rank metric is an alternative to Hamming metric for codes in extension fields. The vector space notions are more involved. For instance, the support of a word corresponds to the vector space hosting the coordinates of the word. This results in exponentially many more possible supports for a word of given weight in rank metric than in Hamming metric, which in turn yields worse attacks hence better parameters.  
+Although Rank metric has received less attention than the famous Hamming metric, it has inhenrently different properties that may enable features that are not reachable with usual code-based cryptography (such as Fully Homomorphic Encryption, Identity-based Encryption, etc...). 
+
+NIST PQC standardization process 
 ======
-few words on NIST PQC competition
+In 2016, the [National Institute of Standards and Technology (a.k.a NIST)](https://www.nist.gov/) initiated a 5 to 7 years process for standardizing three kinds of cryptographic primitives: key-exchange, (public-key) encryption and digital signature. This event yield 82 submissions (nov. 30, 2017) among which 69 were qualified "complete and proper" and up for the 1st round.
