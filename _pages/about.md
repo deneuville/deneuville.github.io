@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage ! I am Jean-Christophe Deneuville, post-doc in Computer Science at <a href="">INSA-CVL</a> and <a href="">LIFO</a>, under the supervision of <a href="">Jérémy Briffaut</a>. I earned my Ph.D in 2016, under the supervision of <a href="http://www.unilim.fr/pages_perso/philippe.gaborit/">Philippe Gaborit</a> and <a href="http://www.irit.fr/spip.php?page=annuaire&code=8292">Carlos Aguilar Melchor</a>. My research interests include Cryptography especially based on Error Correcting Codes and Lattices, as well as associated Algorithms for solving hard problems.
+Welcome to my homepage ! I am Jean-Christophe Deneuville, post-doc in Computer Science at [INSA-CVL](http://www.insa-centrevaldeloire.fr/fr/) and [LIFO](https://www.univ-orleans.fr/lifo/), under the supervision of [Jérémy Briffaut](https://www.univ-orleans.fr/lifo/pageperso.php?lang=fr&id=63). I earned my Ph.D in 2016, under the supervision of [Philippe Gaborit](http://www.unilim.fr/pages_perso/philippe.gaborit/) and [Carlos Aguilar Melchor](http://www.irit.fr/spip.php?page=annuaire&code=8292). My research interests include Cryptography especially based on Error Correcting Codes and Lattices, as well as associated Algorithms for solving hard problems.
 
 Post-Quantum Cryptography
 ======
@@ -24,7 +24,7 @@ Lattices are periodic sets of points in space (e.g. 3-dimensional ambient space 
 
 Rank-based Cryptography
 ------
-Rank metric is an alternative to Hamming metric for codes in extension fields. The vector space notions are more involved. For instance, the support of a word corresponds to the vector space hosting the coordinates of the word. This results in exponentially many more possible supports for a word of given weight in rank metric than in Hamming metric, which in turn yields worse attacks hence better parameters.  
+Rank metric is an alternative to Hamming metric for codes in extension fields. The vector space notions are more involved. For instance, the support of a word corresponds to the vector space hosting the coordinates of the word. This results in exponentially many more possible supports for a word of given weight in rank metric than in Hamming metric, which in turn yields worse attacks hence better parameters. 
 Although Rank metric has received less attention than the famous Hamming metric, it has inhenrently different properties that may enable features that are not reachable with usual code-based cryptography (such as Fully Homomorphic Encryption, Identity-based Encryption, etc...). 
 
 NIST PQC standardization process 
