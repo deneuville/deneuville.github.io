@@ -29,4 +29,11 @@ Although Rank metric has received less attention than the famous Hamming metric,
 
 NIST PQC standardization process 
 ======
-In 2016, the [National Institute of Standards and Technology (a.k.a NIST)](https://www.nist.gov/) initiated a 5 to 7 years process for standardizing three kinds of cryptographic primitives: key-exchange, (public-key) encryption and digital signature. This event yield 82 submissions (nov. 30, 2017) among which 69 were qualified "complete and proper" and up for the 1st round.
+In 2016, the [National Institute of Standards and Technology (a.k.a NIST)](https://www.nist.gov/) initiated a 5 to 7 years process for standardizing three kinds of cryptographic primitives: key-exchange, (public-key) encryption and digital signature. This event yielded 82 submissions (nov. 30, 2017) among which 69 were "complete and proper" and qualified for the 1st round. I actively participated in the design of 6 of them, all accepted to the 1st round:
+* [BIKE](http://bikesuite.org/)
+* [HQC](https://pqc-hqc.org/)
+* [LAKE](http://nicolas-aragon.fr/lake/)
+* [LOCKER](http://nicolas-aragon.fr/locker/)
+* [Ouroboros-R](https://pqc-ouroborosr.org/)
+* [RQC](https://pqc-rqc.org/)
+You can find more information of NIST's related pages: [project main page](https://csrc.nist.gov/projects/post-quantum-cryptography), [submissions accepted for the 1st round](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
