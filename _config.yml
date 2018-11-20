@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Jean-Christophe Deneuville"
-title_separator          : "'s homepage"
+title_separator          : "--"
 name                     : &name "J.-C. Deneuville"
 description              : &description "My personal homepage"
 url                      : https://deneuville.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
