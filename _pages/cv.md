@@ -66,14 +66,14 @@ Awards
 Service
 ======
 * I served as a reviewer/subreviewer for the following conferences and journals:
-  * <a href="https://link.springer.com/journal/13389">Journal of Cryptographic Engineering</a>
-  * <a href="https://www.computer.org/web/tpds">IEEE Trans. on Parallel and Distributed Systems</a>
-  * <a href=""></a>
-  * <a href="https://tsi.revuesonline.com/accueil.jsp">Technique et Science Informatiques</a>  
-  * <a href="http://wcc2017.suai.ru/">Workshop on Coding and Cryptography 2017</a> (subreview)
-  * <a href="https://2017.pqcrypto.org/conference/">Post-Quantum Cryptography 2017</a> (subreview)
-  * <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291939-0122">Security and Communication Networks</a>
-  * <a href="http://www.computer.org/web/tsc">IEEE Transactions on Services Computing</a>
-  * <a href="http://troll.iis.sinica.edu.tw/pkc16/"/>Public Key Cryptography 2016</a> (subreview)
-  * <a href="http://www.comm.utoronto.ca/trans-it/index.shtml"/>IEEE Transactions on Information Theory</a>
+  * [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389)
+  * [IEEE Trans. on Parallel and Distributed Systems](https://www.computer.org/web/tpds)
+  * [IWSEC 2018](http://www.iwsec.org/2018/) (subreview)
+  * [Technique et Science Informatiques](https://tsi.revuesonline.com/accueil.jsp)
+  * [Workshop on Coding and Cryptography 2017 ](http://wcc2017.suai.ru/) (subreview)
+  * [Post-Quantum Cryptography 2017 ](https://2017.pqcrypto.org/conference/) (subreview)
+  * [Security and Communication Networks](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291939-0122)
+  * [IEEE Transactions on Services Computing](http://www.computer.org/web/tsc)
+  * [Public Key Cryptography 2016](http://troll.iis.sinica.edu.tw/pkc16/) (subreview)
+  * [IEEE Transactions on Information Theory](http://www.comm.utoronto.ca/trans-it/index.shtml)
 
