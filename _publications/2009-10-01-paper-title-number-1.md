@@ -39,7 +39,8 @@ gauge the efficiency of the obtained signature scheme.
 
 [Download paper here](https://deneuville.github.io/files/PQC14.pdf)
 
-Bibtex:
+Bibtex
+======
 <pre>
 @inproceedings{PQC:ABDG14,
   title="Sealing the leak on classical {NTRU} signatures",
