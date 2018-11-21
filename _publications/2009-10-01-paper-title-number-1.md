@@ -15,12 +15,12 @@ citation: 'Aguilar Melchor, C., Boyen, X., Deneuville, J.-C., and Gaborit, P. (2
 Bibtex:
 <pre>
 @inproceedings{PQC:ABDG14,
-  title={Sealing the leak on classical {NTRU} signatures},
-  author={{Aguilar Melchor}, Carlos and Boyen, Xavier and Deneuville, {Jean-Christophe} and Gaborit, Philippe},
-  booktitle={International Workshop on Post-Quantum Cryptography},
-  pages={1--21},
-  year={2014},
-  organization={Springer}
+  title="Sealing the leak on classical {NTRU} signatures",
+  author="{Aguilar Melchor}, Carlos and Boyen, Xavier and Deneuville, {Jean-Christophe} and Gaborit, Philippe",
+  booktitle="International Workshop on Post-Quantum Cryptography",
+  pages="1--21",
+  year="2014",
+  organization="Springer"
 }
 </pre>
 
