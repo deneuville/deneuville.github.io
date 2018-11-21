@@ -1,5 +1,5 @@
 ---
-title: "National Institute of Applied Sciences"
+title: "National Institute of Applied Sciences (INSA-CVL), Bourges"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/INSA
