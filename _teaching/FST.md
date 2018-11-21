@@ -4,9 +4,11 @@ collection: teaching
 type: "Undergraduate and graduate courses"
 permalink: /teaching/FST
 venue: "Department of Computer Science"
-date: 2012--2017
+date: 2012-09-01
 location: "Limoges, France"
 ---
+
+I've been a lecturer and teaching assistant at Faculty of Sciences and Technologies from 2012 to 2017, for the following modules:
 
 B. Sc.
 ======
