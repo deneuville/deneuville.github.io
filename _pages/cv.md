@@ -32,6 +32,9 @@ Work experience
     * [Ouroboros-R](https://pqc-ouroborosr.org/)
     * [RQC](https://pqc-rqc.org/)
   * Supervisor: <a href="http://www.unilim.fr/pages_perso/philippe.gaborit/">Prof. Philippe Gaborit</a>
+
+* October 2012 -- December 2016: Ph.D. student in post-quantum cryptography
+  * Contributions to Post-Quantum Cryptography. Access [manuscript](/files/phd_thesis.pdf)(some parts in French) / [defense slides](/files/phd_defense.pdf)
   
 Skills
 ======
