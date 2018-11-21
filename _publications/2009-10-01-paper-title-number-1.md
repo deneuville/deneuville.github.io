@@ -6,7 +6,7 @@ excerpt: 'with C. Aguilar Melchor, X. Boyen, and P. Gaborit'
 date: 2014-07-21
 venue: 'Post-Quantum Cryptography 2014'
 paperurl: 'https://deneuville.github.io/files/PQC14.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
 <!--
 This paper is about the number 1. The number 2 is left for future work.
