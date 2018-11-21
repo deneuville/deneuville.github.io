@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal homepage of Jean-Christophe Deneuville"
+title: "Jean-Christophe Deneuville's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Welcome to my homepage ! I am Jean-Christophe Deneuville, post-doc in Computer Science at [INSA-CVL](http://www.insa-centrevaldeloire.fr/fr/) and [LIFO](https://www.univ-orleans.fr/lifo/), under the supervision of [Jérémy Briffaut](https://www.univ-orleans.fr/lifo/pageperso.php?lang=fr&id=63). I earned my Ph.D in 2016, under the supervision of [Philippe Gaborit](http://www.unilim.fr/pages_perso/philippe.gaborit/) and [Carlos Aguilar Melchor](http://www.irit.fr/spip.php?page=annuaire&code=8292). My research interests include Cryptography especially based on Error Correcting Codes and Lattices, as well as associated Algorithms for solving hard problems.
+
+
 
 Post-Quantum Cryptography
 ======
