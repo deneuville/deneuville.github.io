@@ -10,6 +10,8 @@ citation: 'Aguilar Melchor, C., Boyen, X., Deneuville, J.-C., and Gaborit, P. (2
 '
 ---
 
+Abstract
+======
 Initial attempts to obtain lattice based signatures were closely related to reducing
 a vector modulo the fundamental parallelepiped of a secret basis (like GGH, or NTRUSign). 
 This approach leaked some information on the secret, namely the shape of the parallelepiped,
