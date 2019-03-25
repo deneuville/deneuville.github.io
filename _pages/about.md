@@ -40,3 +40,11 @@ In 2016, the [National Institute of Standards and Technology (a.k.a NIST)](https
 * [RQC](https://pqc-rqc.org/)
 
 You can find more information of NIST's related pages: [project main page](https://csrc.nist.gov/projects/post-quantum-cryptography), [submissions accepted for the 1st round](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
+
+*11.30.18 UPDATE:* [LAKE](http://nicolas-aragon.fr/lake/), [LOCKER](http://nicolas-aragon.fr/locker/) and [Ouroboros-R](https://pqc-ouroborosr.org/) have been merged into a single submission [ROLLO](https://pqc-rollo.org/)
+
+*01.30.19 UPDATE:* [BIKE](http://bikesuite.org/), [HQC](https://pqc-hqc.org/), [RQC](https://pqc-rqc.org/) and [ROLLO](https://pqc-rollo.org/) made it to the [second round](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-2-Submissions) along with 22 other candidates.
+
+
+
+
