@@ -270,6 +270,10 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+#To enable the Jekyll SEO tag plugin, you must add the following line to your site's _config.yml file:
+plugins:
+  - jekyll-seo-tag
+
 
 # Archives
 #  Type
