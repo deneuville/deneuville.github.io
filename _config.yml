@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jean-Christophe Deneuville"
   avatar           : "profile.png"
-  bio              : "Post-doc researcher on Post-Quantum Cryptography at <a href='http://www.insa-centrevaldeloire.fr/fr/'>INSA-CVL Bourges</a> / <a href='https://www.univ-orleans.fr/lifo/'>LIFO Orléans</a>, France"
-  location         : "Bourges, France"
+  bio              : "Associate Professor in Computer Science at <a href='http://enac.fr/'>ENAC</a>"
+  location         : "Toulouse, France"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=zwOOX2IAAAAJ&hl=fr&oi=ao"
-  email            : "jean-christophe.deneuville@insa-cvl.fr"
+  email            : "jean-christophe.deneuville@enac.fr"
   uri              :
   bitbucket        :
   codepen          :

@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Since October 2017: Post-doc researcher at [INSA-CVL](http://www.insa-centrevaldeloire.fr/fr/) Bourges / [LIFO](https://www.univ-orleans.fr/lifo/) Orléans, France
+* Since August 2019: Associate Professor at [ENAC](http://enac.fr/) Toulouse, France
+
+* October 2017 -- June 2019: Post-doc researcher at [INSA-CVL](http://www.insa-centrevaldeloire.fr/fr/) Bourges / [LIFO](https://www.univ-orleans.fr/lifo/) Orléans, France
   * Securing mobile and cloud architecture
   * Post-Quantum Cryptography deployment (authentication, signature) and new applications (blockchain, IoT)
   * Supervisor: <a href="https://www.univ-orleans.fr/lifo/pageperso.php?lang=fr&id=63">Dr. Jérémy Briffaut</a>
